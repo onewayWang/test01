@@ -27,11 +27,6 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 	  <a>hello</a>
 	  <p>我的测试1</p>
 	  <p>我的测试2</p>
-	  <p>我的测试3</p>
-	  <p>我的测试4</p>
-	  <p>我的测试5</p>
-	  <p>我的测试6</p>
-	  <p>我的测试7</p>
 	  <p>我的测试6</p>
   </body>
   </html>
