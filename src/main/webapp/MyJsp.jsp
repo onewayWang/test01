@@ -30,9 +30,6 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 	lune44;
 	lunna55;
 	luna6.5;
-	luna66;
-	luna77;	
-	lapaule;
-	nnnnnnn
+	kkkkkk
   </body>
   </html>
